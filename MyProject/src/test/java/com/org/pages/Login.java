@@ -8,7 +8,7 @@ import org.testng.annotations.AfterTest;
 
 public class Login {	
 	
-	    private WebDriver driver;	
+	public WebDriver driver;	
 	    
 		@Test				
 		public void testEasy() {	

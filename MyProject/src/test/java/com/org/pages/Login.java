@@ -16,11 +16,7 @@ public class Login {
 			String title = driver.getTitle();				 
 			Assert.assertTrue(title.contains("Free Selenium Tutorials")); 		
 		}	
-		
-	/*	@BeforeTest
-		public void beforeTest() {	
-		   
-		}*/		
+			
 		@AfterTest
 		public void afterTest() {
 			driver.quit();			

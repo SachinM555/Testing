@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="39.365" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="34.467" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="pyth" value="D:\Selenium\workspace\C:\Python27\Scripts"/>
     <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
@@ -34,29 +34,29 @@
     <property name="user.script" value=""/>
     <property name="path.separator" value=";"/>
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
-    <property name="BUILD_TAG" value="jenkins-MyMavenGitSeleniumJenkins-19"/>
+    <property name="BUILD_TAG" value="jenkins-MyMavenGitSeleniumJenkins-21"/>
     <property name="PYTHONPATH" value="C:\Python27\Scripts"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="VS140COMNTOOLS" value="C:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven32Main D:\Selenium\apache-maven-3.3.3-bin C:\Users\admin\.jenkins\war\WEB-INF\lib\remoting-2.52.jar C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.7.jar 50020"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven32Main D:\Selenium\apache-maven-3.3.3-bin C:\Users\admin\.jenkins\war\WEB-INF\lib\remoting-2.52.jar C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.7.jar 51316"/>
     <property name="HUDSON_URL" value="http://admin-PC:8080/"/>
     <property name="JENKINS_SERVER_COOKIE" value="ac8ef4d8577b5bea"/>
     <property name="=D:" value="D:\Selenium_Jenkins\Jenkin"/>
     <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_31/bin;C:\ProgramData\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;D:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\Python27\Scripts;C:\Program Files\WinAnt\bin;C:\Program Files\Java\jdk1.7.0\bin;C:\Program Files\ant\bin;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;D:\Selenium\Wget;D:\Selenium\apache-maven-3.2.1\bin;C:\Program Files\Groovy\Groovy-2.3.6\bin;C:\Program Files\Java\apache-ant-1.9.4\bin;D:\Selenium\apache-maven-3.2.1;C:\Users\admin\AppData\Local\Android\sdk1\tools;C:\Users\admin\AppData\Local\Android\sdk1\platform-tools;C:\Program Files\Oracle\VirtualBox;C:\Program Files\NVIDIA Corporation\PhysX\Common;C:\Program Files\Python 3;C:\Program Files\Python 3\Scripts;D:\Selenium\apache-maven-3.3.3-bin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw32\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Skype\Phone\;D:\Notes\Mobile Testing\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\platform-tools;D:\Notes\Mobile Testing\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\tools;C:\Program Files\OpenVPN\bin;C:\Program Files\Python 3\Scripts\;C:\Program Files\Python 3\;D:\Selenium\apache-maven-3.2.1\bin;C:\Program Files\Java\apache-ant-1.9.4\bin;C:\Users\admin\AppData\Local\Android\sdk1\tools;C:\Users\admin\AppData\Local\Android\sdk1\platform-tools;C:\Program Files\Oracle\VirtualBox;D:\Selenium\apache-maven-3.3.3-bin\bin\"/>
-    <property name="GIT_COMMIT" value="7d9b481435ec0afcb6047016295d981a7e2d1b67"/>
+    <property name="GIT_COMMIT" value="9a238ce2a704d394e75667091ba5e4cfd316a008"/>
     <property name="GROOVY_HOME" value="C:\Program Files\Groovy\Groovy-2.3.6"/>
     <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
     <property name="APPDATA" value="C:\Users\admin\AppData\Roaming"/>
     <property name="user.language" value="en"/>
     <property name="line.separator" value="&#10;"/>
-    <property name="BUILD_URL" value="http://admin-PC:8080/job/MyMavenGitSeleniumJenkins/19/"/>
+    <property name="BUILD_URL" value="http://admin-PC:8080/job/MyMavenGitSeleniumJenkins/21/"/>
     <property name="M2_HOME" value="D:\Selenium\apache-maven-3.3.3-bin"/>
     <property name="=C:" value="C:\Users\admin\Desktop"/>
-    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="sun.desktop" value="windows"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="BUILD_DISPLAY_NAME" value="#19"/>
+    <property name="BUILD_DISPLAY_NAME" value="#21"/>
     <property name="Python" value="C:\Python27\;C:\Python27\Scripts"/>
     <property name="OS" value="Windows_NT"/>
     <property name="LSERVRC" value="C:\Program Files\Common Files\Mercury Interactive\License Manager\lservrc"/>
@@ -74,7 +74,7 @@
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="FP_NO_HOST_CHECK" value="NO"/>
     <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
-    <property name="BUILD_NUMBER" value="19"/>
+    <property name="BUILD_NUMBER" value="21"/>
     <property name="maven3.interceptor" value="C:\Users\admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven32-interceptor-1.7.jar"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Selenium\apache-maven-3.3.3-bin/bin;C:\Program Files\Java\jdk1.8.0_31/bin;C:\Program Files\Java\jdk1.8.0_31/bin;C:\ProgramData\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;D:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\Python27\Scripts;C:\Program Files\WinAnt\bin;C:\Program Files\Java\jdk1.7.0\bin;C:\Program Files\ant\bin;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;D:\Selenium\Wget;D:\Selenium\apache-maven-3.2.1\bin;C:\Program Files\Groovy\Groovy-2.3.6\bin;C:\Program Files\Java\apache-ant-1.9.4\bin;D:\Selenium\apache-maven-3.2.1;C:\Users\admin\AppData\Local\Android\sdk1\tools;C:\Users\admin\AppData\Local\Android\sdk1\platform-tools;C:\Program Files\Oracle\VirtualBox;C:\Program Files\NVIDIA Corporation\PhysX\Common;C:\Program Files\Python 3;C:\Program Files\Python 3\Scripts;D:\Selenium\apache-maven-3.3.3-bin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw32\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Skype\Phone\;D:\Notes\Mobile Testing\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\platform-tools;D:\Notes\Mobile Testing\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\tools;C:\Program Files\OpenVPN\bin;C:\Program Files\Python 3\Scripts\;C:\Program Files\Python 3\;D:\Selenium\apache-maven-3.2.1\bin;C:\Program Files\Java\apache-ant-1.9.4\bin;C:\Users\admin\AppData\Local\Android\sdk1\tools;C:\Users\admin\AppData\Local\Android\sdk1\platform-tools;C:\Program Files\Oracle\VirtualBox;D:\Selenium\apache-maven-3.3.3-bin\bin\;."/>
     <property name="HOMEDRIVE" value="C:"/>
@@ -89,7 +89,7 @@
     <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\Virtualbox\"/>
     <property name="JDK" value="C:\Program Files\Java\jdk1.8.0_31"/>
     <property name="JENKINS_HOME" value="C:\Users\admin\.jenkins"/>
-    <property name="BUILD_ID" value="19"/>
+    <property name="BUILD_ID" value="21"/>
     <property name="TEMP" value="C:\Users\admin\AppData\Local\Temp"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_31\jre\bin"/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -147,5 +147,5 @@
     <property name="sun.arch.data.model" value="32"/>
     <property name="GIT_URL" value="https://github.com/SachinM555/Testing.git"/>
   </properties>
-  <testcase name="testEasy" classname="com.org.pages.Login" time="39.365"/>
+  <testcase name="testEasy" classname="com.org.pages.Login" time="34.467"/>
 </testsuite>

@@ -8,13 +8,15 @@ import org.testng.annotations.AfterTest;
 
 public class Login {	
 	
-	    private WebDriver driver;		
+	    private WebDriver driver;	
+	    
 		@Test				
 		public void testEasy() {	
 			 driver = new FirefoxDriver();  
 			driver.get("http://www.guru99.com/selenium-tutorial.html");  
 			String title = driver.getTitle();				 
-			Assert.assertTrue(title.contains("Free Selenium Tutorials")); 		
+			Assert.assertTrue(title.contains("Free Selenium Tutorials")); 	
+			
 		}	
 			
 		@AfterTest
